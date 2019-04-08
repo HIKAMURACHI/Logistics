@@ -1,0 +1,55 @@
+body {
+  background: #fbff00;
+}
+/*.center-on-page {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}*/
+h1 {
+  text-align: center;
+}
+input[type=submit] {
+    /*padding: 40px 266px; */
+    width: 80px;
+  height: 30px;
+  appearance: none;
+  outline: 0;
+  box-shadow: none;
+  border: 0 !important;
+  border-color: #000;
+  border-radius: 5px;
+  background: #fff;
+  background-image: none;
+  top: 5%;
+  left: 96%;
+  z-index: 99999999;  
+  position: absolute;
+  transform: translate(-50%,-50%);
+  color: rgb(140, 0, 196);
+  font-size: 16;  
+  text-align-last:center;}
+/* Reset Select */
+select {
+  width: 20em;
+  height: 3em;
+  appearance: none;
+  outline: 0;
+  box-shadow: none;
+  border: 0 !important;
+  border-color: #000;
+  border-radius: 5px;
+  background: rgb(140, 0, 196);
+  background-image: none;
+  top: 5%;
+  left: 91%;
+  z-index: 99999999;  
+  position: absolute;
+  transform: translate(-50%,-50%);
+  color: white;
+  font-size: 14;  
+  text-align-last: left;
+}
+ 
+     
