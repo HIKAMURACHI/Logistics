@@ -6,8 +6,8 @@ body {
 .bg {
   /*background-image: url(http://shrani.si/f/3A/JY/3mEc61r0/vr4v2bqroc.jpg);*/
   background-size: cover;
-  filter: blur(10px);
-  -webkit-filter: blur(10px);
+  /*filter: blur(10px);
+  -webkit-filter: blur(10px);*/
   display: block;
   height: 110%;
   width: 110%;
@@ -22,8 +22,8 @@ body {
 }
 
 .cover:hover .bg {
-  filter: blur(0px);
-  -webkit-filter: blur(0px);
+  /*filter: blur(0px);
+  -webkit-filter: blur(0px);*/
   background-size: 110%;
   background-position: center;
 }
@@ -44,8 +44,8 @@ body {
 }
 
 .cover:hover .title {
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+  /*filter: blur(2px);
+  -webkit-filter: blur(2px);*/
 }
 
 .title .text {
@@ -79,7 +79,7 @@ body {
   z-index:10;
   text-align: center;
   width:100%;
-  filter: blur(0px);
+  /*filter: blur(0px);*/
 }
 
 .social a {
@@ -88,14 +88,14 @@ body {
   text-decoration:none;
   margin-left:5px;
   margin-right:5px;
-  filter: blur(0px);
+  /*filter: blur(0px);*/
   transition: all 200ms;
 }
 
 .social a:hover {
   font-size:19px;
-  filter: blur(0px);
-  -webkit-filter: blur(0px);
+  /*filter: blur(0px);
+  -webkit-filter: blur(0px);*/
 }
 
 /*******************************************************************************************/

@@ -12,9 +12,9 @@
             </div>        
             <ul id="menu-vertical-menu" class="nav">
                 <li><a href="/index.php">Home ¯\_(ツ)_/¯</a></li>
-                <li><a href="/paralax.php">Delivery logistics</a></li>
+                <li><a href="/paralax.php">Delivery logistics</a></li>                
                 <li><a href="/suppliers.php">Suppliers logistics</a></li>
-                <li><a href="/quest.php">Practice quest</a></li>   
+                <li><a href="/quest.php">°‿‿° Quest</a></li>   
             </ul>
         </nav>
         

@@ -19,15 +19,16 @@
     </div>
   </div>  
   <div class="title">
-      <div class="logo"></div>
+      <!--<div class="logo"></div>-->
       <div class="text">My personal logistical tasks and some quest</div>
       <div class="desc">그리고 나는 히카무라치 다</div>
   </div>
 
   <div class="social">
-  <a href="/paralax.php"  >Delivery</a>
-  <a href="/suppliers.php"  >Suppliers</a>
-  <a href="/quest.php" >Quest</a>
+  <a href="/paralax.php">Delivery</a>
+  <a href="/suppliers.php">Suppliers</a>
+  <a href="/quest.php">Quest</a>  
+  <a href="https://github.com/HIKAMURACHI">GitHub</a>  
 </div>
 </div>
     </body>
